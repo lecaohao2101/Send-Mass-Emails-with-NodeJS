@@ -13,7 +13,7 @@ To install and run the project you need:
 - Node.js và npm
 - MongoDB (hoặc một cơ sở dữ liệu khác nếu muốn thay đổi)
 
-### Cài Đặt
+### Setting
 
 Step 1: Clone repository từ GitHub: https://github.com/lecaohao2101/Send-Mass-Emails-with-NodeJS.git
 

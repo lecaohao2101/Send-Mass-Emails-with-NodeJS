@@ -19,12 +19,12 @@ Step 1: Clone repository từ GitHub: https://github.com/lecaohao2101/Send-Mass-
 
 Step 2: Gmail SMTP Server Settings: https://www.youtube.com/watch?v=I9x0w8cjR_o&ab_channel=StudyGyaan
 
-Step 3: npm I
+Step 3: npm i
 
 Step 4: Create .env: MONGODB_URI
 
 Step 5: .collection("yourcollection").distinct("yourdistinct")
 
-Step 6: user: "youremail.com", pass:"your password"
+Step 6: user: "youremail.com", pass: "your password"
 
 Step 7: node app

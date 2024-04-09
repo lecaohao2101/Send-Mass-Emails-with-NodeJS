@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.3.1",
     "nodemailer": "^6.9.13"
   }
 }
